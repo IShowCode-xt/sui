@@ -1,2 +1,2 @@
 # sui
-sui test
+move1 test1
