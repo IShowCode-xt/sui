@@ -17,3 +17,4 @@ module hello_world::hello {
         transfer(hello_world, sender(ctx));
     }
 }
+//test
